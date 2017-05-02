@@ -1,3 +1,5 @@
+Will Ratterman 5/2/2017
+
 ready_to_quit = false
 
 puts "Hello, welcome to Will's homework Assignment number 1."
